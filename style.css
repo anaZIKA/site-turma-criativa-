@@ -1,0 +1,226 @@
+.desktop-1,
+.desktop-1 * {
+  box-sizing: border-box;
+}
+.desktop-1 {
+  background: #ffffff;
+  width: 1440px;
+  height: 1024px;
+  position: relative;
+  overflow: hidden;
+}
+.rectangle-1 {
+  background: linear-gradient(
+    180deg,
+    rgba(35, 124, 174, 0.83) 20.83333283662796%,
+    rgba(153, 144, 144, 0) 73.95833134651184%,
+    rgba(114, 2, 2, 0) 86.45833134651184%
+  );
+  width: 1440px;
+  height: 249px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.rectangle-2 {
+  background: linear-gradient(
+    180deg,
+    rgba(35, 124, 174, 0.83) 20.83333283662796%,
+    rgba(173, 160, 160, 0) 91.66666865348816%
+  );
+  width: 1440px;
+  height: 291px;
+  position: absolute;
+  left: 0px;
+  top: 920px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, -1);
+}
+.ol-me-chamo-ana-carolina {
+  color: #070707;
+  text-align: center;
+  font: 400 48px "Imprima", sans-serif;
+  position: absolute;
+  right: 439px;
+  bottom: 921px;
+  width: 612px;
+  height: 38px;
+}
+.coisas-favoritas {
+  color: #af0c95;
+  text-align: left;
+  font: 700 italic 32px "Inter", sans-serif;
+  position: absolute;
+  left: 546px;
+  top: 162px;
+  width: 413px;
+  height: 40px;
+}
+.screenshot-20230526-112159-whats-app-clipdrop-background-removal-1 {
+  width: 216px;
+  height: 168px;
+  position: absolute;
+  left: 88px;
+  top: 25px;
+}
+.rectangle-3 {
+  background: rgba(35, 124, 174, 0.83);
+  width: 1440px;
+  height: 104px;
+  position: absolute;
+  left: 0px;
+  top: 920px;
+}
+.rectangle-4 {
+  width: 230px;
+  height: 255px;
+  position: absolute;
+  left: 189px;
+  top: 239px;
+}
+.rectangle-5 {
+  width: 230px;
+  height: 255px;
+  position: absolute;
+  left: 510px;
+  top: 239px;
+}
+.rectangle-6 {
+  width: 230px;
+  height: 255px;
+  position: absolute;
+  left: 820px;
+  top: 239px;
+}
+.rectangle-7 {
+  width: 230px;
+  height: 255px;
+  position: absolute;
+  left: 1117px;
+  top: 239px;
+}
+.rectangle-8 {
+  width: 230px;
+  height: 255px;
+  position: absolute;
+  left: 189px;
+  top: 569px;
+}
+.rectangle-9 {
+  width: 230px;
+  height: 255px;
+  position: absolute;
+  left: 510px;
+  top: 569px;
+}
+.rectangle-10 {
+  width: 230px;
+  height: 255px;
+  position: absolute;
+  left: 820px;
+  top: 569px;
+}
+.rectangle-11 {
+  width: 230px;
+  height: 255px;
+  position: absolute;
+  left: 1117px;
+  top: 569px;
+}
+.comida {
+  color: #070707;
+  text-align: center;
+  font: 400 48px "Imprima", sans-serif;
+  position: absolute;
+  left: 202px;
+  top: 822px;
+  width: 206px;
+  height: 53px;
+}
+.m-sica {
+  color: #000000;
+  text-align: left;
+  font: 400 48px "Inter", sans-serif;
+  position: absolute;
+  left: 531px;
+  top: 824px;
+  width: 199px;
+  height: 40px;
+}
+.desenho {
+  color: #000000;
+  text-align: left;
+  font: 400 48px "Inter", sans-serif;
+  position: absolute;
+  left: 820px;
+  top: 822px;
+  width: 239px;
+  height: 41px;
+}
+.animal {
+  color: #000000;
+  text-align: center;
+  font: 400 48px "Imprima", sans-serif;
+  position: absolute;
+  left: 1128px;
+  top: 826px;
+  width: 225px;
+  height: 57px;
+}
+.s-rie {
+  color: #000000;
+  text-align: center;
+  font: 400 48px "Imprima", sans-serif;
+  position: absolute;
+  left: 202px;
+  top: 494px;
+  width: 215px;
+  height: 51px;
+}
+.s-rie2 {
+  color: #000000;
+  text-align: center;
+  font: 400 48px "Imprima", sans-serif;
+  position: absolute;
+  left: 523px;
+  top: 494px;
+  width: 197px;
+  height: 46px;
+}
+.novela {
+  color: #000000;
+  text-align: center;
+  font: 400 48px "Imprima", sans-serif;
+  position: absolute;
+  left: 852px;
+  top: 494px;
+  width: 176px;
+  height: 50px;
+}
+.filme {
+  color: #000000;
+  text-align: center;
+  font: 400 48px "Imprima", sans-serif;
+  position: absolute;
+  left: 1141px;
+  top: 494px;
+  width: 182px;
+  height: 47px;
+}
+.quebrei-a-imagem-dos-meus-pr-prios-sonhos-veja-mais-sobre-augusto-dos-anjos-em-https-brasilescola-uol-com-br-literatura-augusto-dos-anjos-1-htm {
+  text-align: left;
+  font: 400 48px "Inter", sans-serif;
+  position: absolute;
+  left: 158px;
+  top: 932px;
+  width: 1124px;
+  height: 67px;
+}
+.quebrei-a-imagem-dos-meus-pr-prios-sonhos-veja-mais-sobre-augusto-dos-anjos-em-https-brasilescola-uol-com-br-literatura-augusto-dos-anjos-1-htm-span {
+  color: #f5f5f5;
+  font: 400 48px "Inter", sans-serif;
+}
+.quebrei-a-imagem-dos-meus-pr-prios-sonhos-veja-mais-sobre-augusto-dos-anjos-em-https-brasilescola-uol-com-br-literatura-augusto-dos-anjos-1-htm-span2 {
+  color: #ffffff;
+  font: 400 48px "Inter", sans-serif;
+}
